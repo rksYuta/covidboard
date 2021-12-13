@@ -28,7 +28,7 @@ const Chart: React.FC = () => {
             ],
           },
         ],
-      }}git 
+      }}
       options={{
         legend: { display: false },
         title: { display: true, text: `Latest status in ${country}` },
